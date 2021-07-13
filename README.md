@@ -1,16 +1,15 @@
-### Hi there 👋
+● I'm currently working at Oasis Management Company Limited as a full stack web developer helping leading companies to succeed.
 
-<!--
-**warl0ck1111/warl0ck1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+● I maintain 74 open source projects in my spare time.
 
-Here are some ideas to get you started:
+● Recently, I have been working with Java, Spring Boot, Angular and TypeScript. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+● I speak English, Hausa, Swahili and Pidgin English. Right now, I'm learning Yoruba and Spanish.
+
+● I admin a Dominican developer user group with 6.6K members.
+
+● I have presented 3 tech talks in spanish.
+
+● I have attended a few conferences such as CodeCampSDQ & GitHub Universe.
+
+● Reach me asap: Twitter or bashirokala@hotmail.com
