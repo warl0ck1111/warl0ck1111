@@ -1,8 +1,8 @@
-● I'm currently working at Oasis Management Company Limited as a full stack web developer helping leading companies to succeed.
+● I'm currently working at United Bank Of Africa as a Backend Engineer.
 
-● Recently, I have been working with Java, Spring Boot, Angular and TypeScript. 
+● Recently, I have been working with Java, Spring Boot, Angular, TypeScript, Kafka and RabbitMq. 
 
-● I speak English, Hausa, Swahili and Pidgin English. Right now, I'm learning Yoruba and Spanish.
+● I speak English, Hausa, Swahili and Pidgin English. Right now, I'm learning Yoruba.
 
 ● I have attended a few conferences such as CodeCampSDQ & GitHub Universe.
 
